@@ -689,6 +689,9 @@ pre code {
   max-width: 41.66667%;
 }
 
+.resizeimage { width: 75%; }
+.resizeimage img { width: 100%; }
+
 .col-6 {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 50%;
